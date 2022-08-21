@@ -1,6 +1,6 @@
 # alfred-open-with-qfitsview-workflow
 
-![Screenshot](https://user-images.githubusercontent.com/604167/113921066-69c1d300-979a-11eb-9341-bb69cc6c0b1a.png)
+![Screenshot](http://img.lmytime.com/i/2022/08/22/l3bly.png)
 
 An [Alfred 5](https://www.alfredapp.com/) workflow opening files or folders with [QfitsView](https://www.mpe.mpg.de/~ott/QFitsView/).
 
