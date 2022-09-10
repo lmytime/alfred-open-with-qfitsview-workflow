@@ -8,7 +8,7 @@ Based off of the Alfred 5 workflow from [alexchantastic/alfred-open-with-vscode-
 
 ## Installation
 
-1. [Download the workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow/releases/latest)
+1. [Download the workflow](https://github.com/lmytime/alfred-open-with-qfitsview-workflow/releases/latest)
 2. Double click the `.alfredworkflow` file to install
 
 Note that the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) is required to use workflows.
@@ -29,4 +29,4 @@ Note that the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) is requir
 
 ## License
 
-Code released under the [MIT License](https://github.com/alexchantastic/alfred-open-with-vscode-workflow/blob/master/LICENSE).
+Code released under the MIT License.
